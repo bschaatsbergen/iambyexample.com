@@ -1,6 +1,6 @@
 baseURL = "https://iambyexample.org/"
 languageCode = "en-us"
-title = "IAM By Example"
+title = "Cloud Vendors"
 theme = "digitalgarden"
 
 googleAnalytics = "UA-PROPERTY_ID"
